@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1591201508 source:c:\users\santi\desktop\laboo3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Camion.h"
+	"Chofer.h"
+
+1591201594 c:\users\santi\desktop\laboo3.0\camion_chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion.h"
+	"Chofer.h"
+
+1591201594 c:\users\santi\desktop\laboo3.0\camion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Chofer.h"
+
+1591201594 c:\users\santi\desktop\laboo3.0\chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Camion.h"
+
+1591241055 source:c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion3.h"
+	"camionChofer.h"
+	"Chofer2.h"
+
+1591236596 c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\camion_chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion.h"
+	"Chofer.h"
+
+1591236596 c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\camion.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Chofer.h"
+
+1591236596 c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\chofer.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion_Chofer.h"
+	"Camion.h"
+
+1591239392 source:c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\camion2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Camion3.h"
+	"camionChofer.h"
+
+1591239332 c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\camion3.h
+
+1591240560 c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\camionchofer.h
+	"Camion3.h"
+	"Chofer2.h"
+
+1591239529 c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\chofer2.h
+
+1591240801 source:c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\camionchofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camionChofer.h"
+	"Camion3.h"
+	"Chofer2.h"
+
+1591240476 source:c:\users\bernheim\desktop\ayudame-agus--master\laboo3.0\chofer2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Chofer2.h"
+
